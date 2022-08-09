@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\wamp\www\Proyecto\Proyecto.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/Proyecto/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/Proyecto/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";C:\wamp\www\Proyecto\orders;C:\wamp\www\Proyecto\orders\ajax.php;C:\wamp\www\Proyecto\orders\clases;C:\wamp\www\Proyecto\orders\clases\database.php;C:\wamp\www\Proyecto\orders\clases\orders.php;C:\wamp\www\Proyecto\orders\clases\pagination.php;C:\wamp\www\Proyecto\orders\css;C:\wamp\www\Proyecto\orders\css\style.css;C:\wamp\www\Proyecto\orders\img;C:\wamp\www\Proyecto\orders\index.php;C:\wamp\www\Proyecto\orders\js;C:\wamp\www\Proyecto\orders\js\script.js;C:\wamp\www\Proyecto\orders\orders.sql;"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\wamp\www\Proyecto\subir\index.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.12.0">
+  <errfile name="C:\wamp\www\Proyecto\include\revisor\arbol_r.php">
+   <error val="71;242;87;242;2002;1;"/>
+  </errfile>
+  <errfile name="C:\wamp\www\Proyecto\include\creador\arbol_c.php">
+   <error val="71;243;87;243;2002;1;"/>
+  </errfile>
+  <errfile name="C:\wamp\www\Proyecto\css\estilos.css">
+   <error val="1;23;9;23;2502;1;"/>
+  </errfile>
+  <errfile name="C:\wamp\www\Proyecto\cotizaciones\filtro\filter.php">
+   <error val="22;14;23;14;2002;1;"/>
+   <error val="45;24;56;24;2002;1;"/>
+   <error val="44;44;55;44;2002;1;"/>
+  </errfile>
+  <errfile name="C:\wamp\www\Proyecto\controlador\index.php">
+   <error val="33;14;49;14;2002;1;"/>
+   <error val="6;24;15;24;2002;1;"/>
+  </errfile>
+ </errors>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\wamp\www\Proyecto\subir\old\listarprueba.php" crc="1654708644314"/>
+  <file name="C:\wamp\www\Proyecto\subir\old\listar500.php" crc="1654617036514"/>
+  <file name="C:\wamp\www\Proyecto\subir\old\listar100500.php" crc="1654618011995"/>
+  <file name="C:\wamp\www\Proyecto\subir\old\listar100.php" crc="1654617036529"/>
+  <file name="C:\wamp\www\Proyecto\subir\old\listar.php" crc="1654719760049"/>
+  <file name="C:\wamp\www\Proyecto\subir\Datos\conexion.php" crc="1654717659871"/>
+  <file name="C:\wamp\www\Proyecto\subir\css\style.css" crc="1466115663574"/>
+  <file name="C:\wamp\www\Proyecto\subir\css\estilos.css" crc="1468018091265"/>
+  <file name="C:\wamp\www\Proyecto\subir\Acciones\eliminar.php" crc="1467061745263"/>
+  <file name="C:\wamp\www\Proyecto\subir\Acciones\editar_r.php" crc="1468009494396"/>
+  <file name="C:\wamp\www\Proyecto\subir\Acciones\editar.php" crc="1468009494396"/>
+  <file name="C:\wamp\www\Proyecto\subir\revisar.php" crc="1468941145158"/>
+  <file name="C:\wamp\www\Proyecto\subir\mensaje.php" crc="1467063175794"/>
+  <file name="C:\wamp\www\Proyecto\subir\listar500.php" crc="1657308117776"/>
+  <file name="C:\wamp\www\Proyecto\subir\listar100500.php" crc="1657308117776"/>
+  <file name="C:\wamp\www\Proyecto\subir\listar100.php" crc="1657308117776"/>
+  <file name="C:\wamp\www\Proyecto\subir\listar.php" crc="1657308117787"/>
+  <file name="C:\wamp\www\Proyecto\subir\listac500.php" crc="1654721479392"/>
+  <file name="C:\wamp\www\Proyecto\subir\listac100500.php" crc="1657308117787"/>
+  <file name="C:\wamp\www\Proyecto\subir\listac100.php" crc="1657308117787"/>
+  <file name="C:\wamp\www\Proyecto\subir\listac.php" crc="1657308117787"/>
+  <file name="C:\wamp\www\Proyecto\subir\lista_lector.php" crc="1469042661587"/>
+  <file name="C:\wamp\www\Proyecto\subir\lista.php" crc="1469042708309"/>
+  <file name="C:\wamp\www\Proyecto\subir\leer.php" crc="1657300361125"/>
+  <file name="C:\wamp\www\Proyecto\subir\indexcopia.php" crc="1657827427180"/>
+  <file name="C:\wamp\www\Proyecto\subir\index.php" crc="1657918285175"/>
+  <file name="C:\wamp\www\Proyecto\subir\editar_r.php" crc="1657300339771"/>
+  <file name="C:\wamp\www\Proyecto\subir\editar.php" crc="1657315172524"/>
+  <file name="C:\wamp\www\Proyecto\subir\doc_creador_r.php" crc="1657725318253"/>
+  <file name="C:\wamp\www\Proyecto\subir\doc_creador_c_filtro.php" crc="1657308117787"/>
+  <file name="C:\wamp\www\Proyecto\subir\doc_creador_c.php" crc="1657731480712"/>
+  <file name="C:\wamp\www\Proyecto\subir\doc_creador.php" crc="1657309614975"/>
+  <file name="C:\wamp\www\Proyecto\subir\config.inc.php" crc="1653055654811"/>
+  <file name="C:\wamp\www\Proyecto\subir\archivo_r.php" crc="1654183276178"/>
+  <file name="C:\wamp\www\Proyecto\subir\archivo.php" crc="1464278846986"/>
+  <file name="C:\wamp\www\Proyecto\include\revisor\menu_r.php" crc="1656100660060"/>
+  <file name="C:\wamp\www\Proyecto\include\revisor\arbol_r.php" crc="1657825170999"/>
+  <file name="C:\wamp\www\Proyecto\include\creador\menu_c.php" crc="1654719979801"/>
+  <file name="C:\wamp\www\Proyecto\include\creador\arbol_c.php" crc="1657811156094"/>
+  <file name="C:\wamp\www\Proyecto\include\permisos3.php" crc="1466804196706"/>
+  <file name="C:\wamp\www\Proyecto\include\permisos2.php" crc="1466092245687"/>
+  <file name="C:\wamp\www\Proyecto\include\permisos.php" crc="1466009935492"/>
+  <file name="C:\wamp\www\Proyecto\include\menu_admin.php" crc="1468936787312"/>
+  <file name="C:\wamp\www\Proyecto\include\menu4.php" crc="1468955693383"/>
+  <file name="C:\wamp\www\Proyecto\include\menu2.php" crc="1468936784239"/>
+  <file name="C:\wamp\www\Proyecto\include\menu1.php" crc="1652905784863"/>
+  <file name="C:\wamp\www\Proyecto\include\menu.php" crc="1468936787359"/>
+  <file name="C:\wamp\www\Proyecto\include\arbol_admin.php" crc="1468860952902"/>
+  <file name="C:\wamp\www\Proyecto\include\arbol4.php" crc="1468858875449"/>
+  <file name="C:\wamp\www\Proyecto\include\arbol2.php" crc="1468858837600"/>
+  <file name="C:\wamp\www\Proyecto\include\arbol1.php" crc="1652906747136"/>
+  <file name="C:\wamp\www\Proyecto\include\arbol.php" crc="1468871108145"/>
+  <file name="C:\wamp\www\Proyecto\filtre2\db\db_selection.sql" crc="1568040661048"/>
+  <file name="C:\wamp\www\Proyecto\filtre2\css\bootstrap.min.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\filtre2\css\bootstrap.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\filtre2\css\bootstrap-theme.min.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\filtre2\css\bootstrap-theme.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\filtre2\index.php" crc="1657730629056"/>
+  <file name="C:\wamp\www\Proyecto\filtre2\filter.php" crc="1657726670700"/>
+  <file name="C:\wamp\www\Proyecto\filtre2\conn.php" crc="1657659764174"/>
+  <file name="C:\wamp\www\Proyecto\css\style.css" crc="1466115663574"/>
+  <file name="C:\wamp\www\Proyecto\css\estilos.css" crc="1468018091265"/>
+  <file name="C:\wamp\www\Proyecto\css\bootstrap.min.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\css\bootstrap.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\css\bootstrap-theme.min.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\css\bootstrap-theme.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\old\listarprueba.php" crc="1654708644314"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\old\listar500.php" crc="1654617036514"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\old\listar100500.php" crc="1654618011995"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\old\listar100.php" crc="1654617036529"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\old\listar.php" crc="1654719760049"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\Datos\conexion.php" crc="1654717659871"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\css\style.css" crc="1466115663574"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\css\estilos.css" crc="1468018091265"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\Acciones\eliminar.php" crc="1467061745263"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\Acciones\editar_r.php" crc="1468009494396"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\Acciones\editar.php" crc="1468009494396"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\revisar.php" crc="1468941145158"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\mensaje.php" crc="1467063175794"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\listar500.php" crc="1656100741639"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\listar100500.php" crc="1656100774602"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\listar100.php" crc="1656100755897"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\listar.php" crc="1657226909290"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\listac500.php" crc="1654721479392"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\listac100500.php" crc="1654721722199"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\listac100.php" crc="1654721520087"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\listac.php" crc="1654885902015"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\lista_lector.php" crc="1469042661587"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\lista.php" crc="1469042708309"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\leer.php" crc="1468941409533"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\indexcopia.php" crc="1653055878723"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\index.php" crc="1653080556085"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\editar_r.php" crc="1657227052078"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\editar.php" crc="1657226909320"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\doc_creador_r.php" crc="1657226767677"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\doc_creador_c_filtro.php" crc="1654546997377"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\doc_creador_c.php" crc="1657226909272"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\doc_creador.php" crc="1654264046536"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\config.inc.php" crc="1653055654811"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\archivo_r.php" crc="1654183276178"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\subir\archivo.php" crc="1464278846986"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\orders\js\script.js" crc="1587669320117"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\orders\css\style.css" crc="1587688798924"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\orders\clases\pagination.php" crc="1587698644786"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\orders\clases\orders.php" crc="1587743086413"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\orders\clases\database.php" crc="1654624896373"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\orders\orders.sql" crc="1587744886324"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\orders\index.php" crc="1587688593521"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\orders\ajax.php" crc="1587744507395"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\creador\menu_c.php" crc="1654719979801"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\creador\arbol_c.php" crc="1654720928256"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\permisos3.php" crc="1466804196706"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\permisos2.php" crc="1466092245687"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\permisos.php" crc="1466009935492"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\menu_r.php" crc="1656100660060"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\menu_admin.php" crc="1468936787312"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\menu4.php" crc="1468955693383"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\menu2.php" crc="1468936784239"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\menu1.php" crc="1652905784863"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\menu.php" crc="1468936787359"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\arbol_r.php" crc="1656100932458"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\arbol_admin.php" crc="1468860952902"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\arbol4.php" crc="1468858875449"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\arbol2.php" crc="1468858837600"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\arbol1.php" crc="1652906747136"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\include\arbol.php" crc="1468871108145"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\filtro\db\db_selection.sql" crc="1568040661048"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\filtro\css\bootstrap.min.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\filtro\css\bootstrap.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\filtro\css\bootstrap-theme.min.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\filtro\css\bootstrap-theme.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\filtro\index.php" crc="1657730461069"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\filtro\filter.php" crc="1657287325763"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\filtro\conn.php" crc="1655990301381"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\css\style.css" crc="1466115663574"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\css\estilos.css" crc="1468018091265"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\css\bootstrap.min.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\css\bootstrap.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\css\bootstrap-theme.min.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\css\bootstrap-theme.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\bootstrap\js\jquery.js" crc="1345518822000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\bootstrap\js\jquery-1.8.3.min.js" crc="1355627526000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\bootstrap\js\bootstrap.min.js" crc="1354992738000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\bootstrap\js\bootstrap.js" crc="1354992738000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\bootstrap\css\bootstrap.min.css" crc="1654706917598"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\bootstrap\css\bootstrap.css" crc="1354992736000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\bootstrap\css\bootstrap-responsive.min.css" crc="1354992738000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\bootstrap\css\bootstrap-responsive.css" crc="1354992738000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\validar.php" crc="1656099870600"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\style.css" crc="1464019104950"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\revisorold.php" crc="1656098908821"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\registro_revisor.php" crc="1465593673718"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\registro_lector.php" crc="1465594544825"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\registro_aprobador.php" crc="1465594234990"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\registro.php" crc="1467039058094"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\registrar_revisor.php" crc="1467066526604"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\registrar_lector.php" crc="1467066514781"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\registrar_aprobador.php" crc="1467066557296"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\registrar.php" crc="1467066539394"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\r.php" crc="1656099843933"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\menu_usuarios.html" crc="1467146964013"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\lector.php" crc="1468859927541"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\index_admin.php" crc="1467043967387"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\index2.php" crc="1654720044379"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\index.php" crc="1656097627291"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\ejecutaactualizar.php" crc="1465830997744"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\desconectar.php" crc="1436521139351"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\connect_db.php" crc="1465571961998"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\conexion.php" crc="1652458452304"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\aprobador.php" crc="1467043905112"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\admin.php" crc="1468851027321"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\controlador\actualizar.php" crc="1468850406274"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\buscar\css\estilos.css" crc="1463197098000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\buscar\filtro_busqueda.php" crc="1654275571552"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\bootstrap\js\jquery.js" crc="1345518822000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\bootstrap\js\jquery-1.8.3.min.js" crc="1355627526000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\bootstrap\js\bootstrap.min.js" crc="1354992738000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\bootstrap\js\bootstrap.js" crc="1354992738000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\bootstrap\css\bootstrap.min.css" crc="1654706917598"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\bootstrap\css\bootstrap.css" crc="1354992736000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\bootstrap\css\bootstrap-responsive.min.css" crc="1354992738000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\bootstrap\css\bootstrap-responsive.css" crc="1354992738000"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\BD\ingresar.sql" crc="1474919784647"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\.settings\org.eclipse.wst.common.project.facet.core.xml" crc="1657291840922"/>
+  <file name="C:\wamp\www\Proyecto\cotizaciones\index.php" crc="1657730448128"/>
+  <file name="C:\wamp\www\Proyecto\controlador\css\bootstrap.min.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\controlador\css\bootstrap.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\controlador\css\bootstrap-theme.min.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\controlador\css\bootstrap-theme.css" crc="1469433208000"/>
+  <file name="C:\wamp\www\Proyecto\controlador\bootstrap\js\jquery.js" crc="1345518822000"/>
+  <file name="C:\wamp\www\Proyecto\controlador\bootstrap\js\jquery-1.8.3.min.js" crc="1355627526000"/>
+  <file name="C:\wamp\www\Proyecto\controlador\bootstrap\js\bootstrap.min.js" crc="1354992738000"/>
+  <file name="C:\wamp\www\Proyecto\controlador\bootstrap\js\bootstrap.js" crc="1354992738000"/>
+  <file name="C:\wamp\www\Proyecto\controlador\bootstrap\css\bootstrap.min.css" crc="1654706917598"/>
+  <file name="C:\wamp\www\Proyecto\controlador\bootstrap\css\bootstrap.css" crc="1354992736000"/>
+  <file name="C:\wamp\www\Proyecto\controlador\bootstrap\css\bootstrap-responsive.min.css" crc="1354992738000"/>
+  <file name="C:\wamp\www\Proyecto\controlador\bootstrap\css\bootstrap-responsive.css" crc="1354992738000"/>
+  <file name="C:\wamp\www\Proyecto\controlador\assets\dist\js\bootstrap.bundle.min.js" crc="1652459406000"/>
+  <file name="C:\wamp\www\Proyecto\controlador\assets\dist\css\bootstrap.rtl.min.css" crc="1652459406000"/>
+  <file name="C:\wamp\www\Proyecto\controlador\assets\dist\css\bootstrap.min.css" crc="1652459406000"/>
+  <file name="C:\wamp\www\Proyecto\controlador\validar.php" crc="1656099870600"/>
+  <file name="C:\wamp\www\Proyecto\controlador\style.css" crc="1464019104950"/>
+  <file name="C:\wamp\www\Proyecto\controlador\revisorold.php" crc="1656098908821"/>
+  <file name="C:\wamp\www\Proyecto\controlador\registro_revisor.php" crc="1465593673718"/>
+  <file name="C:\wamp\www\Proyecto\controlador\registro_lector.php" crc="1465594544825"/>
+  <file name="C:\wamp\www\Proyecto\controlador\registro_aprobador.php" crc="1465594234990"/>
+  <file name="C:\wamp\www\Proyecto\controlador\registro.php" crc="1467039058094"/>
+  <file name="C:\wamp\www\Proyecto\controlador\registrar_revisor.php" crc="1467066526604"/>
+  <file name="C:\wamp\www\Proyecto\controlador\registrar_lector.php" crc="1467066514781"/>
+  <file name="C:\wamp\www\Proyecto\controlador\registrar_aprobador.php" crc="1467066557296"/>
+  <file name="C:\wamp\www\Proyecto\controlador\registrar.php" crc="1467066539394"/>
+  <file name="C:\wamp\www\Proyecto\controlador\r.php" crc="1657825654996"/>
+  <file name="C:\wamp\www\Proyecto\controlador\menu_usuarios.html" crc="1467146964013"/>
+  <file name="C:\wamp\www\Proyecto\controlador\lector.php" crc="1468859927541"/>
+  <file name="C:\wamp\www\Proyecto\controlador\index_admin.php" crc="1467043967387"/>
+  <file name="C:\wamp\www\Proyecto\controlador\index2.php" crc="1657731510218"/>
+  <file name="C:\wamp\www\Proyecto\controlador\index.php" crc="1657827314114"/>
+  <file name="C:\wamp\www\Proyecto\controlador\ejecutaactualizar.php" crc="1465830997744"/>
+  <file name="C:\wamp\www\Proyecto\controlador\desconectar.php" crc="1436521139351"/>
+  <file name="C:\wamp\www\Proyecto\controlador\connect_db.php" crc="1465571961998"/>
+  <file name="C:\wamp\www\Proyecto\controlador\conexion.php" crc="1652458452304"/>
+  <file name="C:\wamp\www\Proyecto\controlador\aprobador.php" crc="1467043905112"/>
+  <file name="C:\wamp\www\Proyecto\controlador\admin.php" crc="1468851027321"/>
+  <file name="C:\wamp\www\Proyecto\controlador\actualizar.php" crc="1468850406274"/>
+  <file name="C:\wamp\www\Proyecto\buscar\css\estilos.css" crc="1463197098000"/>
+  <file name="C:\wamp\www\Proyecto\buscar\filtro_busqueda.php" crc="1654275571552"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\js\bootstrap.min.js" crc="1657809819876"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\js\bootstrap.js" crc="1657809819860"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\js\bootstrap.esm.min.js" crc="1657809819860"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\js\bootstrap.esm.js" crc="1657809819860"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\js\bootstrap.bundle.min.js" crc="1657809819844"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\js\bootstrap.bundle.js" crc="1657809819844"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\css\bootstrap.rtl.min.css" crc="1657809819829"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\css\bootstrap.rtl.css" crc="1657809819829"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\css\bootstrap.min.css" crc="1657809819813"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\css\bootstrap.css" crc="1657809819813"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\css\bootstrap-utilities.rtl.min.css" crc="1657809819797"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\css\bootstrap-utilities.rtl.css" crc="1657809819797"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\css\bootstrap-utilities.min.css" crc="1657809819797"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\css\bootstrap-utilities.css" crc="1657809819782"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\css\bootstrap-reboot.rtl.min.css" crc="1657809819782"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\css\bootstrap-reboot.rtl.css" crc="1657809819782"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\css\bootstrap-reboot.min.css" crc="1657809819782"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\css\bootstrap-reboot.css" crc="1657809819775"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\css\bootstrap-grid.rtl.min.css" crc="1657809819775"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\css\bootstrap-grid.rtl.css" crc="1657809819760"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\css\bootstrap-grid.min.css" crc="1657809819760"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap-5.1.3-dist\css\bootstrap-grid.css" crc="1657809819760"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap\js\jquery.js" crc="1345518822000"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap\js\jquery-1.8.3.min.js" crc="1355627526000"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap\js\bootstrap.min.js" crc="1354992738000"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap\js\bootstrap.js" crc="1354992738000"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap\css\bootstrap.min.css" crc="1654706917598"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap\css\bootstrap.css" crc="1354992736000"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap\css\bootstrap-responsive.min.css" crc="1354992738000"/>
+  <file name="C:\wamp\www\Proyecto\bootstrap\css\bootstrap-responsive.css" crc="1354992738000"/>
+  <file name="C:\wamp\www\Proyecto\BD\ingresar.sql" crc="1474919784647"/>
+  <file name="C:\wamp\www\Proyecto\index.php" crc="1657826116056"/>
+ </filescache>
+</project>
